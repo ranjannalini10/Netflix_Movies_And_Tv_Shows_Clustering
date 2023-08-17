@@ -1,52 +1,62 @@
 # Netflix_Movies_And_Tv_Shows_Clustering
-
 An analysis of Netflix's 2019 dataset, exploring the growth of TV shows and decline of movies, performing hypothesis tests, feature engineering, and clustering for valuable insights.
 
-Problem Statement
+# **Problem Statement**
+
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 
 In this project, you are required to do
 
-Exploratory Data Analysis
+- Exploratory Data Analysis
 
-Understanding what type content is available in different countries
+- Understanding what type content is available in different countries
 
-Is Netflix has increasingly focusing on TV rather than movies in recent years.
+- Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
-Clustering similar content by matching text-based features
+- Clustering similar content by matching text-based features
 
-Objectives
-Conduct Exploratory Data Analysis.
-Try understanding what type content is available in different countries.
-Check if Netflix is increasingly focusing on TV rather than movies in recent years.
-Clustering similar content by matching text-based features.
-Methods used:
-Descriptive Statistics.
-Data Visualization.
-Machine Learning.
-Libraries utilized:
-NumPy and Pandas - For dataset cleaning and analysis.
-Matplotlib, Plotly and Seaborn - For Data Visualization.
-SkLearn and nltk - For machine learning and clustering.
-Dataset used:
+# **Objectives**
+
+- Conduct Exploratory Data Analysis.
+- Try understanding what type content is available in different countries.
+- Check if Netflix is increasingly focusing on TV rather than movies in recent years.
+- Clustering similar content by matching text-based features.
+
+# **Methods used:**
+
+- Descriptive Statistics.
+- Data Visualization.
+- Machine Learning.
+
+# **Libraries utilized:**
+
+- NumPy and Pandas - For dataset cleaning and analysis.
+- Matplotlib, Plotly and Seaborn - For Data Visualization.
+- SkLearn and nltk - For machine learning and clustering.
+
+# **Dataset used:**
+
 This dataset consists of tv shows and movies available on Netflix as of 2019. It is collected from Flixable which is a third-party Netflix search engine.
 
-Attribute Information:
-show_id : Unique ID for every Movie / Tv Show
-type : Identifier - A Movie or TV Show
-title : Title of the Movie / Tv Show
-director : Director of the Movie
-cast : Actors involved in the movie / show
-country : Country where the movie / show was produced
-date_added : Date it was added on Netflix
-release_year : Actual Releaseyear of the movie / show
-rating : TV Rating of the movie / show
-duration : Total Duration - in minutes or number of seasons
-listed_in : Genere
-description: The Summary description
-Project Overview:
+# **Attribute Information:**
+
+- show_id : Unique ID for every Movie / Tv Show
+- type : Identifier - A Movie or TV Show
+- title : Title of the Movie / Tv Show
+- director : Director of the Movie
+- cast : Actors involved in the movie / show
+- country : Country where the movie / show was produced
+- date_added : Date it was added on Netflix
+- release_year : Actual Releaseyear of the movie / show
+- rating : TV Rating of the movie / show
+- duration : Total Duration - in minutes or number of seasons
+- listed_in : Genere
+- description: The Summary description
+
+# **Project Overview:**
+
 Netflix, is an American subscription streaming service and production company. It was founded in 1997 by Reed Hastings and Marc Randolph in Scott’s Valley, California.
 
 It offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals.
@@ -65,28 +75,5 @@ Hierarchical clustering and DB SCAN also been implemented.
 
 Using the data provided, we also implemented a simple recommender system that successfully generates Ten similar Movies or Tv-Shows for the given title.
 
-About
-An analysis of Netflix's 2019 dataset, exploring the growth of TV shows and decline of movies, performing hypothesis tests, feature engineering, and clustering for valuable insights.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priva
+ 
