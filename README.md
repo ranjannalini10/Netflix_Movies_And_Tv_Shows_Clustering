@@ -13,7 +13,7 @@ In this project, you are required to do
 
 - Understanding what type content is available in different countries.
 
-- Is Netflix has increasingly focusing on TV rather than movies in recent years
+- Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
 - Clustering similar content by matching text-based features
 
