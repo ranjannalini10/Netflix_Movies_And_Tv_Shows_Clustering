@@ -9,7 +9,7 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 In this project, you are required to do
 
-- Exploratory Data Analysis
+- Exploratory Data Analysis.
 
 - Understanding what type content is available in different countries
 
