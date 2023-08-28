@@ -15,7 +15,7 @@ In this project, you are required to do
 
 - Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
-- Clustering similar content by matching text-based features
+- Clustering similar content by matching text-based features.
 
 # **Objectives**
 
