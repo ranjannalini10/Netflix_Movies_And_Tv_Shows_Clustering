@@ -11,7 +11,7 @@ In this project, you are required to do
 
 - Exploratory Data Analysis.
 
-- Understanding what type content is available in different countries
+- Understanding what type content is available in different countries.
 
 - Is Netflix has increasingly focusing on TV rather than movies in recent years
 
